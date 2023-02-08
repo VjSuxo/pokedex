@@ -1,0 +1,2 @@
+1. Enlace pokedex : https://github.com/Biuni/PokemonGO-Pokedex/blob/master/pokedex.json
+2. Json to exel   : https://www.convertcsv.com/json-to-csv.htm
